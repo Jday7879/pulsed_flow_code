@@ -1,0 +1,9 @@
+﻿Number of Baffles,Influent Substrate,Flow,Current Density,Effluent Substrate
+4,100,Pulse,0.2111,90.780371
+4,1000,Pulse,1.2705,943.080706
+12,100,Pulse,0.2995,56.864064
+12,1000,Pulse,1.322,806.233461
+4,100,Continuous,0.18,91.914
+4,1000,Continuous,1.2316,945.6491
+12,100,Continuous,0.2809,59.3796
+12,1000,Continuous,1.3214,810.0455
